@@ -1,3 +1,4 @@
 SQL-Structure query language
 CRUD operation
 Meta Data is recognized as data about data- Abhishek Patil
+ACID properties-Atomicity,Consistency,Isolation,Durability-Abhishek Patil
